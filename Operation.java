@@ -13,7 +13,7 @@ public abstract class Operation {
         return name;
     }
 
-    //implement nemikone, {} nadare, har child khodesh baste be operation ejra mikone
+   
     public abstract double calculate(
             double first,
             double second
