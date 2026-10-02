@@ -1,4 +1,4 @@
-# Upload your homework to GitHub
+# Upload homework to GitHub
 
 Use a separate repository named `java-learning` (or `java-homework`). Suggested description: **Java coursework: an object-oriented calculator using inheritance, interfaces and polymorphism.**
 
